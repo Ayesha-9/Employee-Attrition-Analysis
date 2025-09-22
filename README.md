@@ -19,4 +19,4 @@ This project analyzes ~50K employee records to uncover attrition trends by tenur
 ## 📘 About
 This project demonstrates end-to-end data analysis: **Data Cleaning → SQL querying → BI visualization → Actionable Insights**.  
 
-For setup instructions and detailed execution steps, [see](HOW_TO_RUN.md) file. 
+For setup instructions and detailed execution steps, see [HOW_TO_RUN](HOW_TO_RUN.md)  
