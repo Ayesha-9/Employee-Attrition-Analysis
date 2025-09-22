@@ -13,7 +13,7 @@ This project analyzes ~50K employee records to uncover attrition trends by tenur
 - Yearly attrition trend reveals fluctuating spikes that require monitoring.
 
 ## 🛠️ Tech Stack
-- **SQL (MySQL)** → wrote 12+ queries to calculate attrition KPIs and trends.  
+- **SQL (MySQL)** → wrote 12 queries to calculate attrition KPIs and trends.  
 - **Power BI** → built KPI cards, visuals, and executive summary.  
 
 ## 📘 About
