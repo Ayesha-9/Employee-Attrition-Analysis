@@ -6,17 +6,7 @@ This project analyzes ~50K employee records to uncover attrition trends by tenur
 - 📊 [View Dashboard PDF](EmpAttritionpro.pdf)  
 - 🗄️ [View SQL Queries](EmpAttritionQueries.sql)   
 
----
-
-## 📊 Power BI Dashboard (Embedded Preview)
-
-> Below is a direct inline view of the Power BI dashboard exported as PDF.  
-> *(If GitHub doesn’t render it inline, click “Download” in the top-right corner.)*
-
-<embed src="EmpAttritionpro.pdf" type="application/pdf" width="100%" height="600px" />
-
----
-
+- 📊 [View Dashboard PDF](assets/EmpAttritionpro.pdf)  
 
 ## 🔑 Key Insights
 - Highest attrition in employees with **0–5 years tenure** (~59.5% of voluntary resignations).  
