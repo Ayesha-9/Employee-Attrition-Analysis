@@ -6,7 +6,7 @@ This project analyzes ~50K employee records to uncover attrition trends by tenur
 - 📊 [View Dashboard PDF](EmpAttritionpro.pdf)  
 - 🗄️ [View SQL Queries](EmpAttritionQueries.sql)   
 
-- 📊 [View Dashboard PDF](assets/EmpAttritionpro.pdf)  
+  ![View Dashboard PDF](assets/EmpAttritionpro.pdf)  
 
 ## 🔑 Key Insights
 - Highest attrition in employees with **0–5 years tenure** (~59.5% of voluntary resignations).  
